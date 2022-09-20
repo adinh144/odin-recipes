@@ -2,18 +2,21 @@
     background-color: rgb(219, 150, 23);
     text-align: center;
 }
+
 .homepage-title {
     color: white; 
     font-family: cursive, sans-serif;
     font-size: 50px;
 }
-#sub-heading, h2, h3 {
-    color: white;
-}
+
 h1, h2, h3 {
     font-family: cursive;
-    color: rgb(42, 37, 37);
 }
+
+h2, h3 {
+    color: rgb(93, 0, 255);
+}
+
 ul {
     font-family: "Lucida Console"
 }
